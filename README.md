@@ -1,2 +1,2 @@
-# cs112polynomial
-Polynomial Assignment 112
+# polynomial
+Polynomial Calculator written in Java
